@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike 
 - 🍗🧆 I'm also a Foodie...😁
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=moneshj)](https://github.com/moneshj/moneshj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
 
 
 ### 📺 Latest YouTube Videos
