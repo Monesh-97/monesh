@@ -10,8 +10,7 @@
 - ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike 
 - 🍗🧆 I'm also a Foodie...😁
 
-[![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshj&show_icons=true&theme=radical)](https://github.com/moneshj/moneshj)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=moneshj)](https://github.com/moneshj/moneshj)
 
 
 ### 📺 Latest YouTube Videos
@@ -23,3 +22,6 @@
 - [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
 - [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
 <!-- YOUTUBE:END -->
+
+
+[![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshj&show_icons=true&theme=radical)](https://github.com/moneshj/moneshj)
