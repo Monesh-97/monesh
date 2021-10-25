@@ -10,6 +10,10 @@
 - ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike 
 - 🍗🧆 I'm also a Foodie...😁
 
+[![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshj)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
