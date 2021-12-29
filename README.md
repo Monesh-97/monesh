@@ -11,6 +11,7 @@
 - 🍗🧆 I'm also a Foodie...😁
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Tamil_Thirukural_Analysis)](https://github.com/moneshj/moneshj)
 
 
 
