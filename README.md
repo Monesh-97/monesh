@@ -1,4 +1,4 @@
-### Hi , I'm Monesh -[Moneshj] 👋
+### Hi , I'm Monesh  👋
 
 [![Website](https://img.shields.io/website?label=moneshj.github.io&style=for-the-badge&url=https%3A%2F%2Fmoneshj.github.io)](https://moneshj.github.io/)
 ## I'm a Student, Developer, and Professor !!!
