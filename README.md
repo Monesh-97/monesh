@@ -10,7 +10,7 @@
 - 🍗🧆 I'm also a Different Natural Place Explorer , Bike Rider and Foodie...😁🚲
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Tamil_Thirukural_Analysis)](https://github.com/moneshj/moneshj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Multi-Label-Prediction-For-videos-using-Zero_Shot_Learning)](https://github.com/moneshj/moneshj)
 
 
 📕 &nbsp;**Latest Blog Posts**
