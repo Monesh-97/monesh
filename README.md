@@ -3,13 +3,13 @@
 
 
 [![Website](https://img.shields.io/website?label=moneshj.github.io&style=for-the-badge&url=https%3A%2F%2Fmoneshj.github.io)](https://moneshj.github.io/)
-## I'm a Research Scholar , Developer, and Professor !!!
+## I'm a Research Scholar , Developer, and Assist - Professor !!!
 
-- 🔭 I am Researcher in VIT University .
+- 🔭 Currently I am Full time Research scholar in VIT University .
 - 🌱 My area of research is [Computer Vision , Graph learning].
 - 👯 I’m looking to collaborate with other content creators and cosmic lovers.
 - 🥅 2025 Goals: Contribute more to Small Scale Business with Data science solutions .
-- ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike .
+- ⚡ Fun fact: I play chess/volleyball and Ride/travel in Bike .
 - 🍗🧆 I'm also a Different Natural Place Explorer , Bike Rider and Foodie...😁🚲
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
