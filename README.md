@@ -7,7 +7,7 @@
 
 - 🔭 Currently I am Full time Research scholar in VIT University .
 - 🌱 My area of research is [Computer Vision , Graph learning].
-- 👯 I’m looking to collaborate with other content creators and cosmic lovers.
+- 👯 I’m looking to collaborate with other researchers on these topics. 
 - 🥅 2025 Goals: Contribute more to Small Scale Business with Data science solutions .
 - ⚡ Fun fact: I play chess/volleyball and Ride/travel in Bike .
 - 🍗🧆 I'm also a Different Natural Place Explorer , Bike Rider and Foodie...😁🚲
