@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Tamil_Thirukural_Analysis)](https://github.com/moneshj/moneshj)
-[![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshj&show_icons=true&theme=radical)](https://github.com/moneshj/moneshj)
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
