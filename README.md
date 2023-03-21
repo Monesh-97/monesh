@@ -5,11 +5,11 @@
 [![Website](https://img.shields.io/website?label=moneshj.github.io&style=for-the-badge&url=https%3A%2F%2Fmoneshj.github.io)](https://moneshj.github.io/)
 ## I'm a Research Scholar , Developer, and Professor !!!
 
-- 🔭 I am Researcher in VIT University ...
-- 🌱 I’m currently learning Quantum NN and Zero shot learning ...
-- 👯 I’m looking to collaborate with other content creators and cosmic lovers...
-- 🥅 2025 Goals: Contribute more to Small Scale Business with Data science solutions ...
-- ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike ...
+- 🔭 I am Researcher in VIT University .
+- 🌱 My current research is in QNN , Graph learning .
+- 👯 I’m looking to collaborate with other content creators and cosmic lovers.
+- 🥅 2025 Goals: Contribute more to Small Scale Business with Data science solutions .
+- ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike .
 - 🍗🧆 I'm also a Different Natural Place Explorer , Bike Rider and Foodie...😁🚲
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moneshj&repo=Quantum_world)](https://github.com/moneshj/moneshj)
