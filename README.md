@@ -6,7 +6,7 @@
 ## I'm a Research Scholar , Developer, and Professor !!!
 
 - 🔭 I am Researcher in VIT University .
-- 🌱 My current research is in QNN , Graph learning .
+- 🌱 My area of research is [Computer Vision , Graph learning].
 - 👯 I’m looking to collaborate with other content creators and cosmic lovers.
 - 🥅 2025 Goals: Contribute more to Small Scale Business with Data science solutions .
 - ⚡ Fun fact: I play to chess/volleyball and Ride/travel in Bike .
