@@ -2,9 +2,6 @@
 
 
 
-[![Website](https://img.shields.io/website?label=moneshj.github.io&style=for-the-badge&url=https%3A%2F%2Fmoneshj.github.io)](https://moneshj.github.io/)
-## I'm a Research Scholar , Developer, and Assist - Professor !!!
-
 - 🔭 Currently I am Full time Research scholar in VIT University .
 - 🌱 My area of research is [Computer Vision , Graph learning].
 - 👯 I’m looking to collaborate with other researchers on these topics. 
